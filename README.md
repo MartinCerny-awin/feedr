@@ -21,3 +21,15 @@ yarn dev (or npm run dev)
 
 ## Run tests
 yarn test (or npm run test)
+
+Possible improvements:
+- Migrate to typescript
+- Add stylelint
+- Use css modules or styled component
+- Create components for wrappers, containers, rows, header, button, lists etc.
+- Do not mock fetch, but use something like Mock Service Worker
+- Upgrade other dependencies
+- Remove not used dependencies
+- Remove not used babel plugins
+- Make snapshots checking only tested element
+- Write test for components

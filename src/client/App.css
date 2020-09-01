@@ -1,0 +1,45 @@
+.wrapper {
+  padding: 50px 0;
+  font-family: 'Nunito', sans-serif;
+}
+
+.menu-builder {
+  margin: 50px 0;
+}
+
+li.item {
+  border-radius: 5px;
+  background: #fff;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+li.item h2 {
+  font-size: 12pt;
+}
+
+li.item p {
+  margin: 0;
+}
+
+button.remove-item {
+  position: absolute;
+  top: -13px;
+  right: -13px;
+  -webkit-appearance: none;
+  border: 2px solid #000;
+  background: #fff;
+  font-weight: bold;
+  width: 26px;
+  height: 26px;
+  line-height: 0px;
+  border-radius: 100%;
+  padding: 0;
+  cursor: pointer;
+}
+
+button.remove-item:focus {
+  outline: none;
+}

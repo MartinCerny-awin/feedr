@@ -1,0 +1,15 @@
+.dietary {
+  font-size: 10pt;
+  border-radius: 100%;
+  background: #a0c9cd;
+  box-shadow: inset 0 0 2px rgba(0, 0, 0, 0.1);
+  width: 26px;
+  height: 26px;
+  text-align: center;
+  font-weight: bold;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin: 5px;
+  color: #fff;
+}
