@@ -22,7 +22,7 @@ yarn dev (or npm run dev)
 ## Run tests
 yarn test (or npm run test)
 
-Possible improvements:
+## Possible improvements:
 - Migrate to typescript
 - Add stylelint
 - Use css modules or styled component
