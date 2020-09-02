@@ -33,3 +33,4 @@ yarn test (or npm run test)
 - Remove not used babel plugins
 - Make snapshots checking only tested element
 - Write test for components
+- Consider usage of state management library
